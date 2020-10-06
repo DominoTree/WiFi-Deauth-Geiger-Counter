@@ -1,0 +1,13 @@
+# Target labels
+ mconf-idf
+# Source files and their labels
+/Users/nprice/Projects/tp27/src/build/CMakeFiles/mconf-idf
+/Users/nprice/Projects/tp27/src/build/CMakeFiles/mconf-idf.rule
+/Users/nprice/Projects/tp27/src/build/CMakeFiles/mconf-idf-complete.rule
+/Users/nprice/Projects/tp27/src/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-install.rule
+/Users/nprice/Projects/tp27/src/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-mkdir.rule
+/Users/nprice/Projects/tp27/src/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-download.rule
+/Users/nprice/Projects/tp27/src/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-update.rule
+/Users/nprice/Projects/tp27/src/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-patch.rule
+/Users/nprice/Projects/tp27/src/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-configure.rule
+/Users/nprice/Projects/tp27/src/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-build.rule
